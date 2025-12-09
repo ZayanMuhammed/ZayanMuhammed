@@ -1,7 +1,7 @@
 <!-- README.md for ZayanMuhammed -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B0FF&width=435&lines=Hi%2C+I'm+Zayan+Muhammed+%F0%9F%91%8B;Open-source+Enthusiast;CSharp+%7C+TS+%7C+JS+%7C+Bash+%7C+Docker;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B0FF&width=435&lines=Hi%2C+I'm+Zayan+Muhammed+%F0%9F%91%8B;Open-source+Enthusiast;CSharp+%7C+TS+%7C+JS+%7C+Python+%7C+Docker;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
